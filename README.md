@@ -41,4 +41,4 @@ The working principle of an AI-powered smart speaker involves the following step
 Example: When a user asks, “What is the weather today?”, the smart speaker recognises the speech, understands the request, retrieves weather information, and responds verbally.
 
 # RESULT
-hus, the application of Artificial Intelligence in smart speakers was studied successfully. The role of Speech Recognition, NLP, Machine Learning, Cloud Computing, and Voice Assistant technology in providing intelligent, interactive, and user-friendly services was understood.
+Thus, the application of Artificial Intelligence in smart speakers was studied successfully. The role of Speech Recognition, NLP, Machine Learning, Cloud Computing, and Voice Assistant technology in providing intelligent, interactive, and user-friendly services was understood.
